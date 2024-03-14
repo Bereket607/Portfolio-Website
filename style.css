@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Roboto:wght@100;300;400;500;700;900&family=Ubuntu:wght@300;400;500;700&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Heebo', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 a {
@@ -597,5 +597,10 @@ footer p {
         width: 100%;
         height: auto;
     }
+
+}
+
+#worksTitle:hover {
+    color: #1a237e;
 
 }
